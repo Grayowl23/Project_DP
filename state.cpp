@@ -1,3 +1,4 @@
+// * Versja *
 //dp state
 #include "stdafx.h"
 #include <cstdio>
