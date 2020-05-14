@@ -3,6 +3,7 @@
 *   (budowniczy)                        *  
 *   www.algorytm.org                    *
 *   Opracowal Dworak Kamil              *
+*   Versja 1.1                          *
 *****************************************/
 #include "stdafx.h"
 #include <iostream>
